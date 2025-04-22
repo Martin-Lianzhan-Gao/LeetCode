@@ -1,4 +1,5 @@
-
+// Top 150 Interview Questions
+// 27. Remove Element
 function removeEelement(nums: number[], val: number): number { 
 
     

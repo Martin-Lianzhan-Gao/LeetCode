@@ -1,6 +1,5 @@
-/**
- * 26. Remove Duplicates from Sorted Array
- */
+// Top 150 Interview Questions
+// 26. Remove Duplicates from Sorted Array
 function removeDuplicates(nums: number[]): number {
     // The index of each unique element
     let index = 0;
